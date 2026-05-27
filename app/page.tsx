@@ -4,7 +4,7 @@ import styles from "./page.module.scss";
 export default function Home() {
   return (
     <div className={styles.wrapper}>
-      <h1 className={styles.title}>MHS Lobby Controller</h1>
+      <h1 className={styles.title}>FOHS Lobby Controller</h1>
       <Link href="/dashboard" className={styles.subtitle}>
         Dashboard
         <svg
@@ -59,7 +59,7 @@ export default function Home() {
           </a>
           . Source code available on{" "}
           <a
-            href="https://github.com/thesamgordon/theater-splashscreen"
+            href="https://github.com/thesamgordon/fohs"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -116,7 +116,7 @@ console.log(
 );
 console.log(
   formatLine(
-    `              ${BOLD}${WHITE}MHS LOBBY CONTROL SYSTEM${RESET}   `,
+    `             ${BOLD}${WHITE}FOHS LOBBY CONTROL SYSTEM${RESET}   `,
   ),
 );
 console.log(
