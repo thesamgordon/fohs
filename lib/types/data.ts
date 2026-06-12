@@ -22,10 +22,10 @@ export const getDefaultState = (): State => ({
 });
 
 export const getDefaultConfiguration = (): Configuration => ({
-  showName: "",
+  showName: "UNTITLED",
   intermissionLength: 15,
-  primaryColor: "transparent",
-  gradientColor: "transparent",
-  secondaryColor: "transparent",
-  splash: "",
+  primaryColor: "black",
+  gradientColor: "black",
+  secondaryColor: "black",
+  splash: "THE SHOW WILL BEGIN SHORTLY",
 });
